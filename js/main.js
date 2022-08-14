@@ -54,7 +54,6 @@
     console.log(sceneInfo);
   }
 
-  // 먗반쩨 ㅅ,ㅋ,럴 섹샨ㅇ;ㄴㅈ; 핀딘
   function scrollLoop() {
     prevScrollHeight = 0;
     for (let i = 0; i < currentScene; i++) {

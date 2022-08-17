@@ -53,7 +53,7 @@
 
     console.log(sceneInfo);
   }
-
+  // 로직추가
   function scrollLoop() {
     prevScrollHeight = 0;
     for (let i = 0; i < currentScene; i++) {
